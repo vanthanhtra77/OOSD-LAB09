@@ -1,0 +1,20 @@
+# Compiled class files
+bin/
+*.class
+
+# Report documents (giữ ở máy local, không đẩy lên GitHub)
+*.docx
+*.html
+*.zip
+HUONG_DAN_NOP_BAI.txt
+build_submission.py
+generate_concise_report.py
+
+# Temporary and log files
+~$*
+*.log
+*.tmp
+
+# OS metadata
+.DS_Store
+Thumbs.db
